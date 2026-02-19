@@ -13,6 +13,7 @@ A lightweight Magisk module to enhance Android performance and smoothness.
 2. Open Magisk/Kitsune Mask.
 3. Install from storage and reboot.
 
+This version includes the new Performance M3 AI App for real-time control.
 ---
 *Created by Nemsi-19*
 
