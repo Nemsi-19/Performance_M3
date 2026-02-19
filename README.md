@@ -1,19 +1,16 @@
-# ⚡ Performance Booster M3
-**Designed with Material 3 Principles**
-
-A lightweight Magisk module to enhance Android performance and smoothness.
+# ⚡ Performance Booster M3 (Final Edition)
+The ultimate performance suite for **Poco X3 Pro** and Xiaomi devices.
 
 ## ✨ Features
-- 🚀 Optimized UI animation scales.
-- 🧠 Improved RAM management (Swappiness & Cache).
-- 🔋 Balanced battery and performance.
+* **Live Dashboard:** Real-time CPU frequency monitoring.
+* **X-Mode:** One-tap to unlock the maximum potential of Snapdragon 860.
+* **Animation Control:** Fine-tune system speed from 0.0x to 2.0x.
+* **Root Integration:** Directly communicates with system kernels for peak efficiency.
 
-## 🛠️ Installation
-1. Download the `Performance_M3_v1.0.zip`.
-2. Open Magisk/Kitsune Mask.
-3. Install from storage and reboot.
+## 📱 Supported Devices
+Optimized for **Poco X3 Pro (vayu/bhima)**, but compatible with most rooted Xiaomi/Poco devices.
 
-This version includes the new Performance M3 AI App for real-time control.
----
-*Created by Nemsi-19*
-
+## 🛠 How to Use
+1. Install the provided Magisk Module.
+2. Grant Root access to the **Performance M3 App**.
+3. Activate **X-Mode** and enjoy the speed!
