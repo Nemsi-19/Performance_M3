@@ -1,16 +1,58 @@
-# ⚡ Performance Booster M3 (Final Edition)
-The ultimate performance suite for **Poco X3 Pro** and Xiaomi devices.
+# 🚀 M3 Performance AI - Poco X3 Pro Edition
 
-## ✨ Features
-* **Live Dashboard:** Real-time CPU frequency monitoring.
-* **X-Mode:** One-tap to unlock the maximum potential of Snapdragon 860.
-* **Animation Control:** Fine-tune system speed from 0.0x to 2.0x.
-* **Root Integration:** Directly communicates with system kernels for peak efficiency.
+<p align="center">
+  <img src="app_screenshot.png" width="300" alt="M3 Performance UI">
+</p>
 
-## 📱 Supported Devices
-Optimized for **Poco X3 Pro (vayu/bhima)**, but compatible with most rooted Xiaomi/Poco devices.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Device-Poco%20X3%20Pro-orange" alt="Device">
+  <img src="https://img.shields.io/badge/Developer-Nemsi-blue" alt="Developer">
+</p>
 
-## 🛠 How to Use
-1. Install the provided Magisk Module.
-2. Grant Root access to the **Performance M3 App**.
-3. Activate **X-Mode** and enjoy the speed!
+---
+
+## 🌟 حول المشروع
+**M3 Performance AI** هو مشروع متكامل يهدف إلى كسر قيود الأداء في هاتف **Poco X3 Pro**. المشروع ليس مجرد تطبيق، بل هو موديل نظام (Magisk Module) يربط بين واجهة المستخدم الأنيقة وسكربتات تحسين النواة العميقة.
+
+---
+
+## 🛠 المميزات التقنية
+* ⚡ **X-Mode AI:** تفعيل أقصى تردد للمعالج (2956 MHz) لتحقيق سلاسة فائقة في الألعاب.
+* 🧊 **إدارة الحرارة:** نظام ذكي لمنع ارتفاع الحرارة المفاجئ أثناء الضغط العالي.
+* ✨ **واجهة Material Design:** تصميم داكن عصري مستوحى من لغة تصميم جوجل الجديدة.
+* 🛡 **تكامل النظام:** يتم تثبيت التطبيق في `system/priv-app` لضمان عمله كجزء أصيل من الأندرويد.
+
+---
+
+## 📥 التحميل والتثبيت
+للحصول على أفضل أداء، يوصى دائماً بتحميل الإصدار الأخير المدمج:
+
+<p align="center">
+  <a href="https://github.com/Nemsi-19/Performance_M3/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-green?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
+
+### خطوات التثبيت:
+1. قم بتحميل ملف الـ `ZIP` من قسم **Releases**.
+2. افتح تطبيق **Magisk** واضغط على قسم الإضافات (Modules).
+3. اختر **Install from storage** وقم بتحديد الملف الذي حملته.
+4. بعد اكتمال التثبيت، أعد تشغيل الهاتف (Reboot).
+
+---
+
+## 📱 متطلبات التشغيل
+- هاتف **Poco X3 Pro** (أو أجهزة Snapdragon 860).
+- وجود صلاحيات الـ **Root** (Magisk).
+- نظام أندرويد 11 أو أحدث.
+
+---
+
+## 👨‍💻 المطور
+تم تطوير هذا المشروع بشغف بواسطة **Nemsi**. 
+
+---
+<p align="center">
+  تم التحديث في 2026 - جميع الحقوق محفوظة
+</p>
